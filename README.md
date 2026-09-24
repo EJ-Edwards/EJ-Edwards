@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm ** Eric Edwards or known as EJ** 👋
 
-<!--
-**EJ-Edwards/EJ-Edwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
 
-Here are some ideas to get you started:
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in **Broolyn NY** → Raised in **Brooklyn NY** → Currently in **Brooklyn NY**.
+- Outside of work I like to **do MMA, enhance my programming skills and expanding my knowledge and working with others.**
+- Let's connect via email: **ee1912136@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack:
+
+### Languages
+
+- JavaScript
+- Python
+- Go
+
+### Frameworks & Libraries
+
+- Node.js
+- Flask
+- Custom Tkinter
+
+### Tools
+
+- Git
+- GitHub
