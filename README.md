@@ -1,4 +1,4 @@
-# Hi, I'm ** Eric Edwards or known as EJ** 👋
+# Hi, I'm **Eric Edwards or known as EJ** 👋
 
 ## 👨‍🏫 About Me
 
