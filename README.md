@@ -14,6 +14,7 @@
 - JavaScript
 - Python
 - Go
+- Rust
 
 ### Frameworks & Libraries
 
