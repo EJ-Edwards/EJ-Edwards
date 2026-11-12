@@ -13,8 +13,8 @@
 
 - JavaScript
 - Python
-- Go
-- Rust
+- C++
+- C
 
 ### Frameworks & Libraries
 
